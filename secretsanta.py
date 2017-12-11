@@ -2,17 +2,7 @@
 
 import random
 
-givers = [
-					'Employee1',
-	  			'Employee2',
-				  'Employee3',
-				  'Employee4',
-				  'Employee5',
-				  'Employee6',
-				  'Employee7',
-				  'Employee8',
-				  ]
-
+givers = ['John', 'Sarah', 'Mike', 'Jennifer']
 getters = list(givers)
 used = []
 
